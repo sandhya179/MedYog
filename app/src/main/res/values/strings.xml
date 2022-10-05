@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MedYog</string>
+    <string name="login">Already have an account? Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_beginner_mediate">BeginnerMediate</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_beginner_meditate">BeginnerMeditate</string>
+    <string name="title_activity_intermediate_meditate">IntermediateMeditate</string>
+    <string name="title_activity_advanced_meditate">AdvancedMeditate</string>
+    <string name="title_activity_basic2">Basic2</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="notification">Notification</string>
+    <string name="app_settings">App Settings</string>
+    <string name="aboutus">AboutUs</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="confirm_delete_account">Confirm delete account</string>
+    <string name="change_password">Change Password</string>
+
+    <string name="text">This will delete your account and all data associated with it This cannot be undone</string>
+    <string name="select_a_reason">Select a reason*</string>
+    <string name="not_satisfied">Not satisfied with the app</string>
+    <string name="switching">Switching to another app</string>
+    <string name="other">Other</string>
+    <string name="delete">DELETE ACCOUNT</string>
+    <string name="explore">EXPLORE</string>
+    <string name="begin_yoga">Start your Beginner Level Yoga</string>
+    <string name="know_about_spirituality">Know about Spirituality</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="bio">Bio</string>
+    <string name="path_to_true_happiness">Path to true Happiness</string>
+    <string name="the_chakra_system">The Chakra System</string>
+</resources>

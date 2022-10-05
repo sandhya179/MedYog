@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project Sem V/app/src/main/res/drawable/bg_circle.xml" value="0.1145" />
+        <entry key="..\:/Project Sem V/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.124" />
+        <entry key="..\:/Project Sem V/app/src/main/res/drawable/ic_home.xml" value="0.1095" />
+        <entry key="..\:/Project Sem V/app/src/main/res/drawable/ic_profile.xml" value="0.1145" />
+        <entry key="..\:/Project Sem V/app/src/main/res/drawable/ic_yoga.xml" value="0.2" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_account_delete.xml" value="0.1956521739130435" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_advanced_meditate.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_advanced_yoga.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_basic.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_beginner_mediate.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_beginner_meditate.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_beginner_yoga.xml" value="0.22" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_change_password.xml" value="0.1956521739130435" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_edit_profile.xml" value="0.22" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_intermediate_meditate.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_intermediate_yoga.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_splash_screen.xml" value="0.20380434782608695" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_temp_beginner_yoga.xml" value="0.10371376811594203" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_temp_change_password.xml" value="0.20380434782608695" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/activity_test2.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/content_advanced_meditate.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_meditate.xml" value="0.17074275362318841" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_second.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_second2.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/fragment_yoga.xml" value="0.17074275362318841" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/item_video.xml" value="0.25" />
+        <entry key="..\:/Project Sem V/app/src/main/res/layout/settings.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project Sem V/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
